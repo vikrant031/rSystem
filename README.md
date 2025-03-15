@@ -50,7 +50,7 @@ Design Pattern: Page Object Model (POM)
  │   │   ├── CreatePostTest.java (https://drive.google.com/file/d/12C3T6Y0op0lL_gOoJhif1yHdj6bjGvjc/view?usp=sharing)
  │   │   ├── LoginTest.java (https://drive.google.com/file/d/1rCRMGBWyiwB2u7H61aQzuqVjn-H0TcBQ/view?usp=sharing)
  │  
- ├── README.md   
+ ├── README.md  (https://github.com/vikrant031/rSystem/blob/main/README.md) 
  ├── https://drive.google.com/file/d/1hVZooHopv42nFuw9OlG_gYtpRE-fFPSl/view?usp=sharing( Pom.xml (for Maven dependencies)
 
  ## Contact
